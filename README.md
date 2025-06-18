@@ -1,7 +1,7 @@
 
 # 📈 Sales Forecasting with LightGBM – Time Series Regression Project
 
-![Sales Forecasting Thumbnail](A_grid_of_four_data_visualizations_related_to_sale.png)
+![Sales Forecasting Thumbnail](sales_forecasting_thumbnail.png)
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
